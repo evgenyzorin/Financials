@@ -1,2 +1,2 @@
-# Financial-APIs
-This repository contains APIs that collect financial data from various sources such as Morningstar.com, Yahoo Finance, Sec.gov, Nasdaq.com, Macrotrends.net, etc.
+# Financials
+This repository contains a collection of financial analysis scripts, various financial APIs and other drafts somehow related to finance.
